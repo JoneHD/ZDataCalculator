@@ -1,0 +1,8 @@
+C:\Users\FjordTours\source\repos\ZData.LoanCalculator.Client\ZData.LoanCalculator.Client\bin\Debug\netstandard2.0\ZData.LoanCalculator.Client.deps.json
+C:\Users\FjordTours\source\repos\ZData.LoanCalculator.Client\ZData.LoanCalculator.Client\bin\Debug\netstandard2.0\ZData.LoanCalculator.Client.dll
+C:\Users\FjordTours\source\repos\ZData.LoanCalculator.Client\ZData.LoanCalculator.Client\obj\Debug\netstandard2.0\ZData.LoanCalculator.Client.csprojAssemblyReference.cache
+C:\Users\FjordTours\source\repos\ZData.LoanCalculator.Client\ZData.LoanCalculator.Client\obj\Debug\netstandard2.0\ZData.LoanCalculator.Client.AssemblyInfoInputs.cache
+C:\Users\FjordTours\source\repos\ZData.LoanCalculator.Client\ZData.LoanCalculator.Client\obj\Debug\netstandard2.0\ZData.LoanCalculator.Client.AssemblyInfo.cs
+C:\Users\FjordTours\source\repos\ZData.LoanCalculator.Client\ZData.LoanCalculator.Client\bin\Debug\netstandard2.0\ZData.LoanCalculator.Client.pdb
+C:\Users\FjordTours\source\repos\ZData.LoanCalculator.Client\ZData.LoanCalculator.Client\obj\Debug\netstandard2.0\ZData.LoanCalculator.Client.dll
+C:\Users\FjordTours\source\repos\ZData.LoanCalculator.Client\ZData.LoanCalculator.Client\obj\Debug\netstandard2.0\ZData.LoanCalculator.Client.pdb

@@ -1,0 +1,79 @@
+﻿@inherits LoanCalculatorService
+
+    <div>
+        <table cellpadding="5">
+            <tr>
+                <td>
+                    <span>Amount: </span>
+                </td>
+                <td>
+                    <input type="number" width="150" @bind="@Amount" />
+                </td>
+                <td>
+                    <span hidden="@Hide_ValidationMessage_Amount" style="color:red">Amount should be in range 1000-1000000000.</span>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <span>Years: </span>
+                </td>
+                <td>
+                    <input type="number" width="150" @bind="@Years" />
+                </td>
+                <td>
+                    <span hidden="@Hide_ValidationMessage_Years" style="color:red">Years should be in range 3-50.</span>
+                </td>
+            </tr>
+        </table>
+
+        <br />
+        <div>
+        <div style="vertical-align: middle; margin: 5px; font-size:18px">
+            <button class="btn btn-primary" @onclick="@(async () =>await  GetPaymentPlan())">Calculate</button>
+
+            <br>
+            <br>
+
+            <p>PaymentPlan:</p>
+        </div>
+
+
+        @if (@Curr_PaymentPlan == null)
+        {
+            <p><em>Loading...</em></p>
+        }
+        else
+        {
+        <table class="table">
+            <thead>
+                <tr style="font-size:17px;background-color:lightgray">
+                    <th>Date</th>
+                    <th>Payment</th>
+                    <th>Installment</th>
+                    <th>Interest</th>
+                    <th>Remaining Debt</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var payment in Curr_PaymentPlan.Payments)
+                {
+
+                    <tr style="background-color:@Get_Row_Color(Counter)">
+                        <td>@(payment.Date.ToString("M/d/yyyy"))</td>
+                        <td>@(payment.ToPay.ToString("N3"))</td>
+                        <td>@(payment.Installment.ToString("N3"))</td>
+                        <td>@(payment.Interest.ToString("N3"))</td>
+                        <td>@(payment.RemainingDebt.ToString("N3")) </td>
+                    </tr>
+                    Counter++;
+                }
+            </tbody>
+                
+            </table>
+            }
+    </div>
+    </div>
+
+        @code {
+            public int Counter { get; set; } = 0;
+        }

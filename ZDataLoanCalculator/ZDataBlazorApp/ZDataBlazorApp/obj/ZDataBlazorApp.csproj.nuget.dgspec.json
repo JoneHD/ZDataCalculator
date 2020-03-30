@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\j_h_d\\Desktop\\ZDataLoanCalculator\\ZDataBlazorApp\\ZDataBlazorApp\\ZDataBlazorApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\j_h_d\\Desktop\\ZDataLoanCalculator\\ZDataBlazorApp\\ZDataBlazorApp\\ZDataBlazorApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\j_h_d\\Desktop\\ZDataLoanCalculator\\ZDataBlazorApp\\ZDataBlazorApp\\ZDataBlazorApp.csproj",
+        "projectName": "ZDataBlazorApp",
+        "projectPath": "C:\\Users\\j_h_d\\Desktop\\ZDataLoanCalculator\\ZDataBlazorApp\\ZDataBlazorApp\\ZDataBlazorApp.csproj",
+        "packagesPath": "C:\\Users\\j_h_d\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\j_h_d\\Desktop\\ZDataLoanCalculator\\ZDataBlazorApp\\ZDataBlazorApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\j_h_d\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\j_h_d\\Desktop\\LocalPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "ZData.LoanCalculator.Client": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "ZData.LoanCalculator.Common": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.3, 3.0.3]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

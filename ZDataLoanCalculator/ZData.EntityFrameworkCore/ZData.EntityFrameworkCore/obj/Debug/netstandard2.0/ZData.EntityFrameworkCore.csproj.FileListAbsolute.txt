@@ -1,0 +1,8 @@
+C:\Users\FjordTours\source\repos\ZData.EntityFrameworkCore\ZData.EntityFrameworkCore\bin\Debug\netstandard2.0\ZData.EntityFrameworkCore.deps.json
+C:\Users\FjordTours\source\repos\ZData.EntityFrameworkCore\ZData.EntityFrameworkCore\bin\Debug\netstandard2.0\ZData.EntityFrameworkCore.dll
+C:\Users\FjordTours\source\repos\ZData.EntityFrameworkCore\ZData.EntityFrameworkCore\bin\Debug\netstandard2.0\ZData.EntityFrameworkCore.pdb
+C:\Users\FjordTours\source\repos\ZData.EntityFrameworkCore\ZData.EntityFrameworkCore\obj\Debug\netstandard2.0\ZData.EntityFrameworkCore.csprojAssemblyReference.cache
+C:\Users\FjordTours\source\repos\ZData.EntityFrameworkCore\ZData.EntityFrameworkCore\obj\Debug\netstandard2.0\ZData.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\FjordTours\source\repos\ZData.EntityFrameworkCore\ZData.EntityFrameworkCore\obj\Debug\netstandard2.0\ZData.EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\FjordTours\source\repos\ZData.EntityFrameworkCore\ZData.EntityFrameworkCore\obj\Debug\netstandard2.0\ZData.EntityFrameworkCore.dll
+C:\Users\FjordTours\source\repos\ZData.EntityFrameworkCore\ZData.EntityFrameworkCore\obj\Debug\netstandard2.0\ZData.EntityFrameworkCore.pdb

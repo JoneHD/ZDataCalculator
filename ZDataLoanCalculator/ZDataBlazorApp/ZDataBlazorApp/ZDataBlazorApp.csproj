@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ZData.LoanCalculator.Client" Version="1.0.0" />
+    <PackageReference Include="ZData.LoanCalculator.Common" Version="1.0.3" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZData.LoanCalculator", "ZData.LoanCalculator\ZData.LoanCalculator.csproj", "{7D70A105-03B4-4933-844F-ECE734B25A50}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D985CBD6-FE09-4A9E-BF2B-2D39417AE535}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{A8537CDA-CCE6-4827-AD84-49BD3FE2AB38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZData.LoanCalculator.IntegrationTests", "ZData.LoanCalculator.IntegrationTests\ZData.LoanCalculator.IntegrationTests.csproj", "{85FA91C8-FA31-441A-9762-D1667C4240E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZData.LoanCalculator.UnitTests", "ZData.LoanCalculator.UnitTests\ZData.LoanCalculator.UnitTests.csproj", "{C38696B6-3524-40C8-8B0B-49967C6B0B49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D70A105-03B4-4933-844F-ECE734B25A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D70A105-03B4-4933-844F-ECE734B25A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D70A105-03B4-4933-844F-ECE734B25A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D70A105-03B4-4933-844F-ECE734B25A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85FA91C8-FA31-441A-9762-D1667C4240E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85FA91C8-FA31-441A-9762-D1667C4240E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85FA91C8-FA31-441A-9762-D1667C4240E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85FA91C8-FA31-441A-9762-D1667C4240E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C38696B6-3524-40C8-8B0B-49967C6B0B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C38696B6-3524-40C8-8B0B-49967C6B0B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C38696B6-3524-40C8-8B0B-49967C6B0B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C38696B6-3524-40C8-8B0B-49967C6B0B49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7D70A105-03B4-4933-844F-ECE734B25A50} = {D985CBD6-FE09-4A9E-BF2B-2D39417AE535}
+		{85FA91C8-FA31-441A-9762-D1667C4240E3} = {A8537CDA-CCE6-4827-AD84-49BD3FE2AB38}
+		{C38696B6-3524-40C8-8B0B-49967C6B0B49} = {A8537CDA-CCE6-4827-AD84-49BD3FE2AB38}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97E14D8E-D325-4AE1-9CBC-4CC49A0C45A6}
+	EndGlobalSection
+EndGlobal

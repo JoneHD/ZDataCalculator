@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\FjordTours\\source\\repos\\ZData.LoanCalculator\\ZData.LoanCalculator.Tests\\ZData.LoanCalculator.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\FjordTours\\source\\repos\\ZData.LoanCalculator\\ZData.LoanCalculator.Tests\\ZData.LoanCalculator.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FjordTours\\source\\repos\\ZData.LoanCalculator\\ZData.LoanCalculator.Tests\\ZData.LoanCalculator.Tests.csproj",
+        "projectName": "ZData.LoanCalculator.Tests",
+        "projectPath": "C:\\Users\\FjordTours\\source\\repos\\ZData.LoanCalculator\\ZData.LoanCalculator.Tests\\ZData.LoanCalculator.Tests.csproj",
+        "packagesPath": "C:\\Users\\FjordTours\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FjordTours\\source\\repos\\ZData.LoanCalculator\\ZData.LoanCalculator.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FjordTours\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\FjordTours\\Desktop\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://fjordtours.pkgs.visualstudio.com/_packaging/FTDevelopFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

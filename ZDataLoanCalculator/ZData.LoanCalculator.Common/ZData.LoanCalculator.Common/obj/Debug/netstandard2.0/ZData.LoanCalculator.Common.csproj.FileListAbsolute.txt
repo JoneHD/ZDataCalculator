@@ -1,0 +1,17 @@
+C:\Users\FjordTours\source\repos\ZData.LoanCalculator.Common\ZData.LoanCalculator.Common\bin\Debug\netstandard2.0\ZData.LoanCalculator.Common.deps.json
+C:\Users\FjordTours\source\repos\ZData.LoanCalculator.Common\ZData.LoanCalculator.Common\bin\Debug\netstandard2.0\ZData.LoanCalculator.Common.dll
+C:\Users\FjordTours\source\repos\ZData.LoanCalculator.Common\ZData.LoanCalculator.Common\bin\Debug\netstandard2.0\ZData.LoanCalculator.Common.pdb
+C:\Users\FjordTours\source\repos\ZData.LoanCalculator.Common\ZData.LoanCalculator.Common\obj\Debug\netstandard2.0\ZData.LoanCalculator.Common.csprojAssemblyReference.cache
+C:\Users\FjordTours\source\repos\ZData.LoanCalculator.Common\ZData.LoanCalculator.Common\obj\Debug\netstandard2.0\ZData.LoanCalculator.Common.AssemblyInfoInputs.cache
+C:\Users\FjordTours\source\repos\ZData.LoanCalculator.Common\ZData.LoanCalculator.Common\obj\Debug\netstandard2.0\ZData.LoanCalculator.Common.AssemblyInfo.cs
+C:\Users\FjordTours\source\repos\ZData.LoanCalculator.Common\ZData.LoanCalculator.Common\obj\Debug\netstandard2.0\ZData.LoanCalculator.Common.dll
+C:\Users\FjordTours\source\repos\ZData.LoanCalculator.Common\ZData.LoanCalculator.Common\obj\Debug\netstandard2.0\ZData.LoanCalculator.Common.pdb
+C:\Users\j_h_d\Desktop\ZDataLoanCalculator\ZData.LoanCalculator.Common\ZData.LoanCalculator.Common\bin\Debug\netstandard2.0\ZData.LoanCalculator.Common.deps.json
+C:\Users\j_h_d\Desktop\ZDataLoanCalculator\ZData.LoanCalculator.Common\ZData.LoanCalculator.Common\bin\Debug\netstandard2.0\ZData.LoanCalculator.Common.dll
+C:\Users\j_h_d\Desktop\ZDataLoanCalculator\ZData.LoanCalculator.Common\ZData.LoanCalculator.Common\bin\Debug\netstandard2.0\ZData.LoanCalculator.Common.pdb
+C:\Users\j_h_d\Desktop\ZDataLoanCalculator\ZData.LoanCalculator.Common\ZData.LoanCalculator.Common\obj\Debug\netstandard2.0\ZData.LoanCalculator.Common.csprojAssemblyReference.cache
+C:\Users\j_h_d\Desktop\ZDataLoanCalculator\ZData.LoanCalculator.Common\ZData.LoanCalculator.Common\obj\Debug\netstandard2.0\ZData.LoanCalculator.Common.csproj.CoreCompileInputs.cache
+C:\Users\j_h_d\Desktop\ZDataLoanCalculator\ZData.LoanCalculator.Common\ZData.LoanCalculator.Common\obj\Debug\netstandard2.0\ZData.LoanCalculator.Common.AssemblyInfoInputs.cache
+C:\Users\j_h_d\Desktop\ZDataLoanCalculator\ZData.LoanCalculator.Common\ZData.LoanCalculator.Common\obj\Debug\netstandard2.0\ZData.LoanCalculator.Common.AssemblyInfo.cs
+C:\Users\j_h_d\Desktop\ZDataLoanCalculator\ZData.LoanCalculator.Common\ZData.LoanCalculator.Common\obj\Debug\netstandard2.0\ZData.LoanCalculator.Common.dll
+C:\Users\j_h_d\Desktop\ZDataLoanCalculator\ZData.LoanCalculator.Common\ZData.LoanCalculator.Common\obj\Debug\netstandard2.0\ZData.LoanCalculator.Common.pdb
